@@ -8,4 +8,8 @@ class Post
     @post
   end
 
+  def author_name
+    @author
+  end
+
 end
